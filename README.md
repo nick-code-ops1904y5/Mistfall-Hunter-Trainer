@@ -6,6 +6,9 @@ Free Mistfall Hunter Trainer with support for many cfg files. Auto-updates, no k
 <img width="1842" height="854" alt="mh" src="https://github.com/user-attachments/assets/cc019b96-4c77-409b-bd3e-13199f88132d" />
 
 ---
+## UPD
+✅✅ || 21.08 - FIX ANTI-DETECT SYSTEM!
+---
 
 ## || 📖 About 
 
