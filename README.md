@@ -12,7 +12,7 @@ Free Mistfall Hunter Trainer with support for many cfg files. Auto-updates, no k
 ✅✅ || 26.08 - NEW FEATURES!
 
 ✅✅ || 04.09 - NEW UPDATE!
-
+                                                                              
 ---
 
 ## || 📖 About 
